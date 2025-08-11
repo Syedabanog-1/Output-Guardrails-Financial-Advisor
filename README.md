@@ -93,5 +93,15 @@ If guardrail fails → prints “Output guardrail triggered - response did not m
 trace("Output Guardrails - Financial Advisor") records the validation process for analysis.
 
 
-Do y
+https://github.com/user-attachments/assets/94cbd340-3856-44fb-b49c-687030320530
+
+
+<img width="1617" height="915" alt="response" src="https://github.com/user-attachments/assets/1edc1d04-5582-47cb-bad8-9fd8093d2053" />
+
+<img width="1609" height="904" alt="FinancialGuardrails-LOG" src="https://github.com/user-attachments/assets/5c5581c0-681f-4a1b-bb2a-4b338fef705f" />
+<img width="1610" height="908" alt="financialAdv-Log" src="https://github.com/user-attachments/assets/f4d7f26b-cb0d-484c-86fb-718ddd3fbf4f" />
+<img width="1611" height="907" alt="FinanciaAdv_OutPut-Triggered-False" src="https://github.com/user-attachments/assets/260b0b5e-30af-494c-b399-f3bbbca48395" />
+<img width="1611" height="905" alt="FinancialAdv_CodeOutPut-" src="https://github.com/user-attachments/assets/6cf2fce7-bce6-4484-938f-deaa24b87e5d" />
+
+
 
