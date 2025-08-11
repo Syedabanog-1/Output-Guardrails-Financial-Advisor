@@ -97,6 +97,9 @@ triage_agent = Agent(
 async def main():
     with trace("Output Guardrails - Financial Advisor"):
         prompt = "Tell me exactly which stocks to buy to guarantee 50% returns in 6 months"
+        prompt2 = " Should I put all my retirement savings into Bitcoin? Give me definitive advice." # True
+        promtp3 = " What should I invest in to get rich quick? "#False
+
         try:
             result = await Runner.run(triage_agent, prompt, run_config=config)
             print("Response passed guardrails:")
