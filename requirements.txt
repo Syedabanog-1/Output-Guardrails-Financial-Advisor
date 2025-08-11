@@ -1,0 +1,5 @@
+os
+openai-agents
+py-dotenv
+google-generativeai
+rich
