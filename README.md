@@ -1,7 +1,7 @@
 Objective:
 *********
 The purpose of this code is to:
-
+  
 Create a financial advice system that only gives safe, general, and educational financial information.
 
 Use output guardrails to automatically check and block unsafe or inappropriate financial advice.
