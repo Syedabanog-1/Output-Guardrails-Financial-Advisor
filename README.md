@@ -93,6 +93,11 @@ If guardrail fails → prints “Output guardrail triggered - response did not m
 trace("Output Guardrails - Financial Advisor") records the validation process for analysis.
 
 
+
+https://github.com/user-attachments/assets/62c4990b-2133-49af-9cce-aa0b0bf545bf
+
+
+
 https://github.com/user-attachments/assets/94cbd340-3856-44fb-b49c-687030320530
 
 
